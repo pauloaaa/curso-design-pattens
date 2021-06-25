@@ -1,0 +1,56 @@
+com/paulo/designpatterns/pedido/acao/AcaoGerarPedido.java
+ com.paulo.designpatterns.pedido.acao.AcaoGerarPedido
+com/paulo/designpatterns/imposto/ICMS.java
+ com.paulo.designpatterns.imposto.ICMS
+com/paulo/designpatterns/DomainException.java
+ com.paulo.designpatterns.DomainException
+com/paulo/designpatterns/pedido/acao/SalvarPedido.java
+ com.paulo.designpatterns.pedido.acao.SalvarPedido
+com/paulo/designpatterns/desconto/SemDesconto.java
+ com.paulo.designpatterns.desconto.SemDesconto
+com/paulo/designpatterns/Teste.java
+ com.paulo.designpatterns.Teste
+com/paulo/designpatterns/imposto/Imposto.java
+ com.paulo.designpatterns.imposto.Imposto
+com/paulo/designpatterns/orcamento/situacao/SituacaoOrcamento.java
+ com.paulo.designpatterns.orcamento.situacao.SituacaoOrcamento
+com/paulo/designpatterns/orcamento/situacao/Reprovado.java
+ com.paulo.designpatterns.orcamento.situacao.Reprovado
+com/paulo/designpatterns/pedido/Pedido.java
+ com.paulo.designpatterns.pedido.Pedido
+com/paulo/designpatterns/pedido/GeraPedido.java
+ com.paulo.designpatterns.pedido.GeraPedido
+com/paulo/designpatterns/imposto/ISS.java
+ com.paulo.designpatterns.imposto.ISS
+com/paulo/designpatterns/http/HttpAdapter.java
+ com.paulo.designpatterns.http.HttpAdapter
+com/paulo/designpatterns/http/HttpClient.java
+ com.paulo.designpatterns.http.HttpClient
+com/paulo/designpatterns/imposto/CalculadoraImpostos.java
+ com.paulo.designpatterns.imposto.CalculadoraImpostos
+com/paulo/designpatterns/orcamento/Orcamento.java
+ com.paulo.designpatterns.orcamento.Orcamento
+com/paulo/designpatterns/orcamento/situacao/Finalizado.java
+ com.paulo.designpatterns.orcamento.situacao.Finalizado
+com/paulo/designpatterns/pedido/acao/EnviarEmailPedido.java
+ com.paulo.designpatterns.pedido.acao.EnviarEmailPedido
+com/paulo/designpatterns/orcamento/RegistroOrcamento.java
+ com.paulo.designpatterns.orcamento.RegistroOrcamento
+com/paulo/designpatterns/orcamento/ItemOrcamento.java
+ com.paulo.designpatterns.orcamento.ItemOrcamento
+com/paulo/designpatterns/desconto/DescontoParaQuantidadeItens.java
+ com.paulo.designpatterns.desconto.DescontoParaQuantidadeItens
+com/paulo/designpatterns/pedido/GeraPedidoHandler.java
+ com.paulo.designpatterns.pedido.GeraPedidoHandler
+com/paulo/designpatterns/orcamento/situacao/EmAnalise.java
+ com.paulo.designpatterns.orcamento.situacao.EmAnalise
+com/paulo/designpatterns/orcamento/situacao/Aprovado.java
+ com.paulo.designpatterns.orcamento.situacao.Aprovado
+com/paulo/designpatterns/desconto/Desconto.java
+ com.paulo.designpatterns.desconto.Desconto
+com/paulo/designpatterns/desconto/CalcularDescontos.java
+ com.paulo.designpatterns.desconto.CalcularDescontos
+com/paulo/designpatterns/orcamento/Orcavel.java
+ com.paulo.designpatterns.orcamento.Orcavel
+com/paulo/designpatterns/desconto/DescontoComValorMaior.java
+ com.paulo.designpatterns.desconto.DescontoComValorMaior
